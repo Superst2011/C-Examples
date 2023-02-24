@@ -1,0 +1,15 @@
+E:\01_GEEG_BRAINS\Examples C#\Repo\bin\Debug\net6.0\Repo.exe
+E:\01_GEEG_BRAINS\Examples C#\Repo\bin\Debug\net6.0\Repo.deps.json
+E:\01_GEEG_BRAINS\Examples C#\Repo\bin\Debug\net6.0\Repo.runtimeconfig.json
+E:\01_GEEG_BRAINS\Examples C#\Repo\bin\Debug\net6.0\Repo.dll
+E:\01_GEEG_BRAINS\Examples C#\Repo\bin\Debug\net6.0\Repo.pdb
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.dll
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\refint\Repo.dll
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.pdb
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\Repo.genruntimeconfig.cache
+E:\01_GEEG_BRAINS\Examples C#\Repo\obj\Debug\net6.0\ref\Repo.dll
